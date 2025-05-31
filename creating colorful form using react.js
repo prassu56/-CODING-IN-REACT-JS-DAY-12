@@ -92,7 +92,7 @@ function App() {
 }
 
 export default App;
-//code in app.js
+//code in app.css
 /* Background animation */
 @keyframes backgroundAnimation {
   0% {
